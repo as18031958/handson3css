@@ -1,0 +1,163 @@
+body{
+    background-color: dimgray;
+}
+.Welcomm{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.Wel{
+    margin-left: 500px;
+    border-radius: 5px;
+    height: 120px;
+    width: 30%;
+    text-align: center;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 10px;
+    background-color: white;
+    border: 8px solid red;
+    box-shadow: 5px 5px 3px purple;
+    text-shadow: 2px 2px 1px purple;
+    font-style: italic;
+}
+.container{
+    width: 100%;
+    height: 600px;
+    border: 5px solid green;
+}
+.box{
+    border: 5px solid red;
+    text-shadow: 2px 2px 1px purple;
+    box-shadow: 5px 5px 2px purple;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    font-weight: 800;
+    font-size: 25px;
+    
+}
+
+.Box1{
+    width: 25%;
+    height: 250px;
+
+}
+ img{ 
+    width: 200px;
+    height: 150px; 
+   
+} 
+.Box2{
+    width: 25%;
+    height: 250px;
+    position: absolute;
+    top: 31%;
+    right: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.Box3{
+    width: 25%;
+    height: 250px;
+    position: absolute;
+    top: 500px;
+    left: 13px;
+    
+}
+.placeholder{
+    text-align: center;
+}
+.Box4{
+    width: 25%;
+    height: 250px;
+    position: absolute;
+    top: 500px;
+    right: 100px;
+}
+.button{
+    border-radius: 10px;
+    background-color: brown;
+}
+.Fix{
+    border: 5px solid red;
+    background-color: chartreuse;
+    height: 80px; 
+    width: 35%;
+    margin-left: 380px;
+    border-radius: 10px;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    color: red;
+}
+.text1{
+    font-weight: 500px;
+    font-size: 25px;
+    font-style: italic;
+    align-items: center;
+}
+.text2{
+    font-weight: 300px;
+    font-size: 20px;
+    font-style: italic;
+    align-items: center;
+}
+.container2{
+    border: 5px solid magenta;
+    background-color: green;
+    width: 60%;
+    height: 700px;
+    text-align: center;
+    margin-left: 300px;
+    font-weight: 300px;
+    font-style: italic;
+    font-size: 15px;
+    
+}
+.store{
+    display: flex;
+    justify-content: space-between;
+    text-align: center; 
+    margin-top: 50px;
+
+}
+.fruits{
+    
+    width: 48%;
+    height: 300px;
+   
+    font-weight: 100; 
+    text-align: center;
+    background-color: bisque;
+
+}
+.Vegetables{
+    width: 48%;
+    height: 300px;
+    
+    font-weight: 100; 
+    text-align: center;
+    background-color: bisque;
+
+}
+.store2{
+    background-color: bisque;
+    
+   
+
+}
+ .Other{
+    width: 98%;
+    height: 250px;
+    margin-top: 5px;
+    font-weight: 100; 
+    text-align: center;
+
+   
+} 
